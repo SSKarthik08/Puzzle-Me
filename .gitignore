@@ -1,0 +1,51 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# IDE files
+.vs/
+.idea/
+.gradle/
+
+# Visual Studio
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+
+# Unity generated files
+sysinfo.txt
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Crash reports
+memoryCaptures/
+
+# Build output
+Build/
+Builds/
+
+# Visual Studio cache
+.vscode/
+
+# Unity temporary files
+.utmp/
+
+# Unity build files
+*.apk
+*.aab
+
+# Unity backup/debug folders
+*BurstDebugInformation_DoNotShip*
+*BackUpThisFolder_ButDontShipItWithYourGame*
+
+# Solution files
+*.slnx
